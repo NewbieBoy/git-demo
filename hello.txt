@@ -12,3 +12,4 @@
 你最好是没有忘记linux!
 全部都忘记了
 hot-fix first
+最后一句是hot-fix写的
